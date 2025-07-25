@@ -19,3 +19,6 @@ All contributions undergo a code review process.
 
 Licensing:
 Contributions are licensed.
+
+Lab Tester:
+JB Easy
